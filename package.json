@@ -1,0 +1,14 @@
+{
+  "name": "christian-agosto-cruz-connect",
+  "version": "1.0.0",
+  "description": "Connect tecnical test",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Christian Agosto Cruz",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
+}
